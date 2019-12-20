@@ -6,7 +6,7 @@
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
-* [LinkedIn](www.linkedin.com/in/danilo-oliveira-251bb393)
+* [LinkedIn](www.linkedin.com/in/DaniloOliveiraDS)
 
 
 ## Projetos de Data Science
