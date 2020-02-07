@@ -16,7 +16,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Análise Exploratória de Dados - Violência no Rio de Janeiro:** (https://bit.ly/35sCja9)
 * **Análise Exploratória de Dados - Doenças Cardiovasculares:** (https://bit.ly/2QcBxYl)
 * **Projeto - Detecção de Fraudes em Cartões de Crédito:** (https://bit.ly/2R0o3k6) 
-
+* **Projeto - Avaliação de Risco de Crédito - [Nubank]:** (https://bit.ly/2vaLvTs)
 ---
 
 ### Sobre Mim:
