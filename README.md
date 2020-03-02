@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/author-DaniloDS-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanOliveira-DS/data_science/issues)
+[![author](https://img.shields.io/badge/author-DaniloDS-red.svg)](https://www.linkedin.com/in/danilooliveirads/) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/DanOliveira-DS/data_science/issues)
 
 <p align="center">
   <img width="100%" src="https://drive.google.com/uc?id=1yYJyoBQ2eZWkfOi3XkG3GMHaGVCju7e4" >
