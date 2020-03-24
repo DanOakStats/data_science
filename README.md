@@ -11,9 +11,9 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 
 ## Projetos de Data Science
 
-* **Análise Exploratória de Dados - Airbnb Lisboa:** (https://bit.ly/2tp9A86)
-* **Análise Exploratória de Dados - Queimadas Brasileiras:** (https://bit.ly/2M164HA)
-* **Análise Exploratória de Dados - Violência no Rio de Janeiro:** (https://bit.ly/35sCja9)
+* **Análise Exploratória de Dados - Airbnb Lisboa:** (https://bit.ly/2vMfwcR)
+* **Análise Exploratória de Dados - Queimadas Brasileiras:** (https://bit.ly/3bmRDaP)
+* **Análise Exploratória de Dados - Violência no Rio de Janeiro:** (https://bit.ly/2QJgzBp)
 * **Análise Exploratória de Dados - Doenças Cardiovasculares:** (https://bit.ly/2QcBxYl)
 * **Projeto - Detecção de Fraudes em Cartões de Crédito:** (https://bit.ly/2R0o3k6) 
 * **Projeto - Avaliação de Risco de Crédito - [Nubank]:** (https://bit.ly/39toPMM)
