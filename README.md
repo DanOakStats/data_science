@@ -17,6 +17,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * **Análise Exploratória de Dados - Doenças Cardiovasculares:** (https://bit.ly/2QcBxYl)
 * **Projeto - Detecção de Fraudes em Cartões de Crédito:** (https://bit.ly/2R0o3k6) 
 * **Projeto - Avaliação de Risco de Crédito - [Nubank]:** (https://bit.ly/39toPMM)
+* **Projeto - ML na detecção do covid-19:** (https://bit.ly/3dPSZNj)
 ---
 
 ### Sobre Mim:
